@@ -14,7 +14,6 @@ A simple **Background Color Changer** built with **HTML, CSS, and JavaScript**.
 * 🟡 Yellow background
 * 🟣 Purple background
 * 🟠 Orange background
-* 🩷 Pink background
 * 🟤 Brown background
 * ⚫ Black background
 * 🔄 Reset button
